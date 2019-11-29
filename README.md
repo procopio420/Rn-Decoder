@@ -8,7 +8,7 @@ Projeto de Algoritmos e Estruturas de Dados I do Instituto Nacional de Telecomun
 
 ## Utilização
 
--Execute o arquivo criado no topico 1.  
+-Execute o arquivo rndecoder.exe, criado na instalação.  
 -Escolha "SIM" para escolher um novo arquivo RN.  
 -Selecione seu arquivo RN e clique em Abrir.  
 -Espere.  
