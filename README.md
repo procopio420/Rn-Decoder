@@ -1,29 +1,18 @@
-# Foobar
+# Rn Decoder v2.0
 
-Foobar is a Python library for dealing with word pluralization.
+Projeto de Algoritmos e Estruturas de Dados I do Instituto Nacional de Telecomunicações
 
-## Installation
+## Instalação
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+-Basta executar o SETUP e sera criado um executavel chamado rndecoder.
 
-```bash
-pip install foobar
-```
+## Utilização
 
-## Usage
+-Execute o arquivo criado no topico 1.  
+-Escolha "SIM" para escolher um novo arquivo RN.  
+-Selecione seu arquivo RN e clique em Abrir.  
+-Espere.  
+-O resultado sera mostrado em uma nova caixa de dialogo.  
 
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
+## Licensa
 [MIT](https://choosealicense.com/licenses/mit/)
